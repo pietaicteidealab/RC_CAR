@@ -39,6 +39,10 @@ This project controls a car using an ESP32 DevKit V1 via Bluetooth and an L298N 
 
 ⚠️ Note: Connect ESP32 **GND** and L298N **GND** together
 
+## Circuit Diagram
+
+![Circuit Diagram](Diagram/Rc car circuit.jpg)
+
 ## Install USB Driver for ESP32
 
 To upload code into ESP32 using Arduino IDE, you need to install the USB-to-UART driver:
@@ -58,6 +62,8 @@ Add:https://dl.espressif.com/dl/package_esp32_index.json
 Then go to Tools → Board → Board Manager → search ESP32 → Install.
 
 Recompile and upload.
+
+
 
 
 ## How to Use
