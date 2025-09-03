@@ -66,5 +66,8 @@ Recompile and upload.
 3. Use a Bluetooth terminal app to send the commands (`F`, `B`, `L`, `R`, etc.).
 4. The car moves based on the command received.
 
+## Schematic
+![Alt text](./Diagram/Rc%20car%20circuit.JPG)
+
 ## Author
 Himanshu Gaud
